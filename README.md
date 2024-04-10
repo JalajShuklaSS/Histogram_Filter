@@ -1,3 +1,2 @@
-# Particle Based Filter for SLAM
-
-The project is ongoing and would be published soon.
+# Particle Based Filter for SLAM using LiDAR
+Implemented the Particle filter for SLAM using
